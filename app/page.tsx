@@ -31,7 +31,7 @@ const tutors = [
 
 const students = [
   { image: "/images/murid/murid1.jpg", name: "Rizky Pratama", university: "Universitas Indonesia", department: "Teknik Informatika 2025", quote: "Alhamdulillah, berkat bimbingan ALC saya bisa lolos SNBT di UI. Tutor-tutornya sangat sabar dan materinya mudah dipahami. Suasana belajarnya juga nyaman!" },
-  { image: "/images/murid/murid2.jpg", name: "Nadia Putri", university: "Institut Teknologi Bandung", department: "Farmasi 2025", quote: "Saya sangat merekomendasikan ALC. Selain materi akademik, nilai-nilai islami yang ditanamkan membuat saya lebih termotivasi dan tenang dalam menghadapi ujian." },
+  { image: "/images/murid/murid2.jpg", name: "Rafa Putra", university: "Institut Teknologi Bandung", department: "Farmasi 2025", quote: "Saya sangat merekomendasikan ALC. Selain materi akademik, nilai-nilai islami yang ditanamkan membuat saya lebih termotivasi dan tenang dalam menghadapi ujian." },
   { image: "/images/murid/murid3.jpg", name: "Fajar Nugroho", university: "Universitas Gadjah Mada", department: "Kedokteran 2024", quote: "Try out rutin di ALC sangat membantu saya mengukur kemampuan. Konsultasi jurusan juga membuka wawasan saya. Terima kasih ALC!" },
 ];
 
